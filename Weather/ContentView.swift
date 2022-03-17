@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Weather
-//
-//  Created by Gabriel Oliveira on 16/03/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
